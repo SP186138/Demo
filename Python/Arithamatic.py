@@ -11,5 +11,5 @@ def div(a,b):
 		return a/b
 
 def mul(a,b):
-	pass
+	return a*b
 
