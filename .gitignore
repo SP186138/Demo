@@ -1,0 +1,20 @@
+#excludes everything
+/**
+
+!/.gitignore
+
+#includes bteq
+!/bteq/
+!/bteq/*.btq
+
+#includes sh
+!/shell/
+!/shell/*
+
+#includes python
+!/python/
+!/python/*
+
+#includes talend
+!/talend/
+!/talend/**
